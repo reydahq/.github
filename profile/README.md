@@ -1,8 +1,16 @@
 # Reyda
 
+[English](#what-is-an-ai-bid-manager) · [Deutsch](#deutsch)
+
 [Reyda](https://reyda.ai) builds Emma, an AI bid manager for SMEs. Give Emma a tender or RFP and she carries the work from opportunity through response readiness—researching the buyer, mapping requirements, finding company evidence, preparing response material, identifying gaps, and keeping the bid moving.
 
 Reyda is the connected workspace that gives Emma the opportunity context, buyer documents, company knowledge, approved evidence, response work, and decisions she needs to do the job.
+
+## What is an AI bid manager?
+
+An AI bid manager is the next generation of AI for bids. Instead of waiting for isolated prompts, it takes responsibility for carrying the work between an opportunity and the next decision or completed response.
+
+The difference is continuity. An AI bid manager keeps the buyer's requirements, company evidence, response work, open questions, approvals, versions, and deadline connected. People retain authority and judgment; the AI carries the preparation.
 
 ## Give Emma the tender
 
@@ -25,3 +33,17 @@ Reyda monitors more than 4,000 procurement sources across the EU, the UK, and Sw
 - [Read public procurement and bid management insights](https://reyda.ai/blog)
 - [Review Reyda's security approach](https://reyda.ai/security)
 - [Book a product demo](https://cal.com/jola-reyda/demo)
+
+## Deutsch
+
+### Was ist ein KI-Bid-Manager?
+
+Ein KI-Bid-Manager ist die nächste Generation von KI für Ausschreibungen und Angebote. Statt auf einzelne Prompts zu warten, übernimmt er Verantwortung für die Arbeit von der Chance bis zur nächsten Entscheidung oder zur einreichungsreifen Antwort.
+
+[Reyda](https://reyda.ai/de) entwickelt Emma, eine KI-Bid-Managerin für KMU. Geben Sie Emma eine Ausschreibung oder RFP. Sie recherchiert die Chance, ordnet die Anforderungen, findet die Nachweise, bereitet die Antwort vor, macht Lücken sichtbar und hält das Angebot in Bewegung.
+
+Reyda ist der verbundene Arbeitsbereich, der Emma den Kontext für ihre Arbeit gibt: Chancen, Auftraggeberdokumente, Unternehmenswissen, freigegebene Nachweise, Antwortunterlagen und Entscheidungen.
+
+Menschen behalten die Beziehungen zum Auftraggeber, das kaufmännische Urteilsvermögen, Preise, formale Verpflichtungen, Unterschriften und die finale Einreichungsbefugnis. Emma übernimmt die Recherche, Vorbereitung, Koordination und routinemäßige Prüfung rund um diese Entscheidungen.
+
+[Mehr über KI-Bid-Manager erfahren](https://aibidmanager.com/de/)
