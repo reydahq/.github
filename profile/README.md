@@ -36,9 +36,11 @@ Reyda monitors more than 4,000 procurement sources across the EU, the UK, and Sw
 
 ## Deutsch
 
-### Was ist ein KI-Bid-Manager?
+### KI für Ausschreibungen: Was ist ein KI-Bid-Manager?
 
-Ein KI-Bid-Manager ist die nächste Generation von KI für Ausschreibungen und Angebote. Statt auf einzelne Prompts zu warten, übernimmt er Verantwortung für die Arbeit von der Chance bis zur nächsten Entscheidung oder zur einreichungsreifen Antwort.
+Ein KI-Bid-Manager verbindet KI für Ausschreibungen mit praktischem Ausschreibungsmanagement. Er hilft Unternehmen, öffentliche Ausschreibungen zu finden und zu qualifizieren, Vergabeunterlagen zu analysieren, Nachweise zuzuordnen und ein überzeugendes Angebot zu schreiben.
+
+Das ist die nächste Generation von Ausschreibungssoftware: Statt auf einzelne Prompts zu warten oder nur Aufgaben zu verwalten, übernimmt der KI-Bid-Manager Verantwortung für die Arbeit von der Chance bis zur nächsten Entscheidung oder zur einreichungsreifen Antwort. Im Unterschied zu reiner KI-Angebotserstellung hält er Anforderungen, Nachweise, Antwortunterlagen, Bieterfragen, Freigaben, Versionen und Fristen miteinander verbunden.
 
 [Reyda](https://reyda.ai/de) entwickelt Emma, eine KI-Bid-Managerin für KMU. Geben Sie Emma eine Ausschreibung oder RFP. Sie recherchiert die Chance, ordnet die Anforderungen, findet die Nachweise, bereitet die Antwort vor, macht Lücken sichtbar und hält das Angebot in Bewegung.
 
